@@ -1,2 +1,1 @@
-# CSI_LSM_Assignmentweek1
-Create a user registration form with the following fields: username, email, password, birthdate, address, and phone number. It should also have a submit and cancel button. Make sure each field has the appropriate input type.
+assignment1.html
